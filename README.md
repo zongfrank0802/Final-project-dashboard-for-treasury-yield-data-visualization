@@ -44,8 +44,8 @@ treasury_yield_dashboard/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/treasury-yield-dashboard.git
-cd treasury-yield-dashboard
+git clone https://github.com/zongfrank0802/Final-project-dashboard-for-treasury-yield-data-visualization
+cd Final-project-dashboard-for-treasury-yield-data-visualization
 ```
 
 ### 2. Create and activate a virtual environment (recommended)
